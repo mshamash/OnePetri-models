@@ -15,7 +15,7 @@ McGill University <br />
 michael@onepetri.ai
 
 ## Current Version - Trained Models
-The latest Petri dish detection model is v1.0. The latest plaque detection model is v1.0.
+The latest Petri dish detection model is v1.1. The latest plaque detection model is v1.1.
 
 ## Citation
 *Coming soon...*
