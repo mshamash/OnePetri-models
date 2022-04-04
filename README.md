@@ -15,10 +15,12 @@ McGill University <br />
 michael@onepetri.ai
 
 ## Current Version - Trained Models
-The latest Petri dish detection model is v1.1. The latest plaque detection model is v1.1.
+The latest Petri dish detection model is v1.2. The latest plaque detection model is v1.2.
 
 ## Citation
-*Coming soon...*
+Please consider citing our [article in the journal PHAGE](https://doi.org/10.1089/phage.2021.0012) if you found OnePetri useful:
+
+Shamash, M. & Maurice, C. F. OnePetri: Accelerating Common Bacteriophage Petri Dish Assays with Computer Vision. PHAGE: Therapy, Applications, and Research 2(4), 224-231 (2021).
 
 ---
 
