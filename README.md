@@ -12,7 +12,6 @@
 Michael Shamash <br />
 Maurice Lab <br />
 McGill University <br />
-michael@onepetri.ai
 
 ## Current Version - Trained Models
 The latest Petri dish detection model is v1.2. The latest plaque detection model is v1.2.
@@ -42,7 +41,7 @@ For more information, please visit the OnePetri website [here](https://onepetri.
 *Coming soon...*
 
 ## Contact <a name="contact"></a>
-If you have any questions or comments on the OnePetri models in this repo, please contact Michael Shamash (michael@onepetri.ai) or [create a GitHub issue in this repository](https://github.com/mshamash/onepetri-models/issues)!
+If you have any questions or comments on the OnePetri models in this repo, please [create a GitHub issue in this repository](https://github.com/mshamash/onepetri-models/issues)!
 
 ## Copyright <a name="copyright"></a>
 OnePetri - AI-Powered Petri Dish Analysis <br />
