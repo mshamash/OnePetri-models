@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo.jpg" height="250" /> <br /><br />
   <a href="https://apps.apple.com/ca/app/onepetri/id1576075754?uo=4">
-    <img src="https://onepetri.ai/assets/appstore.png" height="70" />
+    <img src="https://onepetri.shamash.me/assets/appstore.png" height="70" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Shamash, M. & Maurice, C. F. OnePetri: Accelerating Common Bacteriophage Petri D
 ## About OnePetri <a name="about"></a>
 OnePetri is an iOS application which uses machine learning models & computer vision to accelerate common microbiological workflows by automatically detect Petri dishes and plaques, count plaques, and perform assay calculations with these values.
 
-For more information, please visit the OnePetri website [here](https://onepetri.ai), or GitHub repo [here](https://github.com/mshamash/OnePetri).
+For more information, please visit the OnePetri website [here](https://onepetri.shamash.me), or GitHub repo [here](https://github.com/mshamash/OnePetri).
 
 ## Model Description <a name="models"></a>
 *Coming soon...*
